@@ -26,7 +26,7 @@ Criado por, Lucas Vitor.
 
 Application created on the basis of Javascript with the backend Node.JS using mongoDB as the main database.
 
-** MONGOOSE ** was used as the main library, ** JWT ** for token authentication and ** EXPRESS ** to create apis.
+**MONGOOSE** was used as the main library, **JWT** for token authentication and **EXPRESS** to create apis.
 
 In this application there are two "Models", one for user (USER), and another for tasks (TASKS), in which, in the end, both are related.
 
