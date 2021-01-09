@@ -22,10 +22,7 @@ o facilita as operações dentro da api.
 
 Criado por, Lucas Vitor.
 
---ENGLISH---
-
-# TASK-APP
-## BACK-END NON-RELATIONAL BANK
+## ENGLISH - BACK-END NON-RELATIONAL DATABASE 
 
 Application created on the basis of Javascript with the backend Node.JS using mongoDB as the main database.
 
